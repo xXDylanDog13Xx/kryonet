@@ -1,1 +1,1 @@
-Please note that !KryoNet has [https://github.com/EsotericSoftware/kryonet/issues moved to GitHub].
+Please note that !KryoNet has moved to GitHub: [https://github.com/EsotericSoftware/kryonet/issues KryoNet issues]
