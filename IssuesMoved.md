@@ -1,0 +1,1 @@
+Please note that KryoNet has moved to GitHub: [KryoNet issues](https://github.com/EsotericSoftware/kryonet/issues)
